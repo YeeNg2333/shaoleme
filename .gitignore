@@ -1,0 +1,18 @@
+# 依赖与构建产物
+node_modules/
+
+# 日志与临时文件
+*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 操作系统杂物
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本机内部记录(含本机路径与控制台抓包),不随公开仓库发布。
+# 想一起发布时删掉下面两行再提交即可。
+diag/
+POSTMORTEM.md

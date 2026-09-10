@@ -1,0 +1,32 @@
+{
+  "name": "dsh-shaoleme",
+  "version": "0.1.0",
+  "private": true,
+  "description": "烧了么 — a floating real-time token/cost meter for DeepSeek Harness sessions, shipped as a Cordis dynamic plugin (host + client halves).",
+  "keywords": [
+    "deepseek",
+    "deepseek-harness",
+    "dsh",
+    "cordis",
+    "token",
+    "cost",
+    "usage",
+    "widget"
+  ],
+  "license": "MIT",
+  "author": "YeeNg <yeeng2333@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeeng2333/shaoleme.git"
+  },
+  "homepage": "https://github.com/yeeng2333/shaoleme#readme",
+  "bugs": {
+    "url": "https://github.com/yeeng2333/shaoleme/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "check": "node scripts/check.mjs"
+  }
+}
