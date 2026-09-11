@@ -29,6 +29,8 @@ Cordis **dynamic plugin** (host + client halves).
 
 价目来源：DeepSeek 官方「模型 & 价格」<https://api-docs.deepseek.com/zh-cn/quick_start/pricing>
 
+**哦我的天呐先生，你说梁圣发布了什么？！！deepseek-4.1，先生，这得省不少钱**
+
 | 模型 | 输入（缓存未命中） | 输入（缓存命中） | 输出 |
 | --- | --- | --- | --- |
 | `deepseek-v4-flash` | ¥1.5 | ¥0.05 | ¥4.5 |
