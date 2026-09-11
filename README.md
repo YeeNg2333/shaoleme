@@ -5,6 +5,8 @@
 A floating real-time token & cost meter for DeepSeek Harness sessions, shipped as a
 Cordis **dynamic plugin** (host + client halves).
 
+![image](https://github.com/YeeNg2333/shaoleme/show.gif)
+
 当前版本 **v0.1.0**。
 
 ---
